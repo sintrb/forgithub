@@ -7,7 +7,7 @@ some source for github
 
 =
 
-### 怎么获取这些代码？
+## 怎么获取这些代码？
 
 * 如果你只是想简单的使用这些代码的话你可以把它当作一个压缩包下载到你的电脑上，点击右边的“Download ZIP”:
 
@@ -27,3 +27,4 @@ some source for github
 ![image](https://raw.githubusercontent.com/sintrb/forgithub/master/img/screenshots/githubsshclone.png)
 
 **享受开源带来的乐趣吧**
+
